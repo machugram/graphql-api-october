@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apollo-server-express": "^2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.13.8"
+  }
+}
